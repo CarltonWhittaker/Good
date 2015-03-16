@@ -1,0 +1,28 @@
+h1 {
+	color: red;
+}
+body{
+	background-image: url('http://C:\Users\Owner\Documents\Projects\Header\Images');
+}
+p{
+	text-align: center;
+	font-family: monospace;
+	color: magenta;
+	font-size: 20px;
+	
+}
+h2{
+	color:fuchsia;
+	text-align: center;
+}
+li{
+	
+	color: yellow;
+}
+a{
+	color: orange;
+	font-size: 30px;
+	text-align: center;
+	font-weight: bold;
+}
+
